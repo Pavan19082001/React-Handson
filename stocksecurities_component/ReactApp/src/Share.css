@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: darkslateblue;
+    color: cyan;
+    margin-left: 50px;
+}
+p{
+    font-size: larger;
+    margin-top: 50px;
+    color:white;
+}
